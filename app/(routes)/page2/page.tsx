@@ -1,7 +1,7 @@
 const page2 = () =>{
     return(
     <div>
-        <h1>pagee2</h1>
+        <h1>page2</h1>
     </div>
     )
     }
